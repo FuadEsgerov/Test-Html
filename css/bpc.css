@@ -251,7 +251,7 @@ hr {
 .bg {
 
   background: url("../images/crad.png") center center fixed no-repeat;
-  background-size: contain;
+  background-size: cover;
 
 
 }
